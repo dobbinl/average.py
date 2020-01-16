@@ -1,0 +1,5 @@
+print("Please enter two numbers.")
+num_1 = int(input())
+num_2 = int(input())
+num_3 = int(num_1 * num_2)
+print("The result is", num_3)
